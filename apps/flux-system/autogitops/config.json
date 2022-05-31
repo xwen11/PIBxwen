@@ -1,8 +1,8 @@
 {
     "name": "flux-system",
     "namespace": "flux-system",
-    "fluxBranch": "main",
-    "fluxRepo": "https://github.com/yourTenant/yourRepo",
+    "fluxBranch": "pib",
+    "fluxRepo": "https://github.com/xwen11/PIBxwen",
     "targetDir": "flux",
     "targets": [ "all" ]
 }
