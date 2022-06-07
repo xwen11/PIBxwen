@@ -1,0 +1,8 @@
+{
+	"environment": "dev",
+	"region": "pib",
+	"zone": "pib-demo",
+	"district": "pib-demo",
+	"store": "pib-demo",
+	"domain": "pib-demo."
+}
